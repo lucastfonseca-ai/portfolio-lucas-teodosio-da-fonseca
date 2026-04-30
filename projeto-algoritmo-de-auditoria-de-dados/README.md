@@ -5,9 +5,6 @@ Este projeto consiste em um script de auditoria de segurança focado na análise
 
 Desenvolvido como um notebook interativo, o algoritmo processa três entradas de vendas simultâneas, calculando sua média e comparando os resultados contra um limite de segurança pré-definido. Caso a média geral ou alguma venda individual ultrapasse o teto permitido, o sistema solicita uma revisão manual ao usuário, permitindo o reajuste dinâmico do limite para operações futuras.
 
-![Exemplo de Output do Console](IMAGEM_1_AQUI)
-*Figura 1: Output do console mostrando o alerta de quarentena e a solicitação de revisão manual.*
-
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** Python 3
 * **Ambiente:** Jupyter Notebook, Google Colab
