@@ -11,19 +11,22 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Sou um estudante, que possui TEA (Transtorno do Espectro Autista) grau 2, com interesse na área de TI (Tecnologia da Informação). Tenho aprendizado em Linguagens de Programação para análise e desenvolvimento de sistemas. Possuo habilidades em pensamento analítico, atenção aos detalhes, capacidade de aprendizado rápido e forte comprometimento com tarefas que exigem precisão.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, PHP, Python.
+* **Habilidades Socioemocionais:** Trabalho em equipe, pensamento analítico, atenção aos detalhes, capacidade de aprendizado rápido e forte comprometimento com tarefas que exigem precisão.
+* **Experiência/Projetos Relevantes:** Atuei em atividades práticas onde desenvolvi páginas web com HTML, CSS e JavaScript.
  
 ---
  
 ### 🛠 Minhas Ferramentas Favoritas
  
 #### 💻 Linguagens e Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
