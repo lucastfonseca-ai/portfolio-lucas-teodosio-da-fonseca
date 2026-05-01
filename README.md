@@ -45,11 +45,6 @@ Sou um estudante, que possui TEA (Transtorno do Espectro Autista) grau 2, com in
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
 ---
  
 ### 🏗 Estrutura do Repositório
