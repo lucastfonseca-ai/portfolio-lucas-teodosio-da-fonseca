@@ -61,9 +61,9 @@ O projeto explora conceitos como:
 
 ## 🔧 Como Executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Faça o download do arquivo Experiência_5.ipynb.
+2. Abra o arquivo em um ambiente compatível (Jupyter Notebook, Google Colab ou VS Code com extensão Jupyter).
+3. Execute a célula dos códigos.
 
 ---
 [Voltar ao início](https://github.com/lucastfonseca-ai/portifolio-lucas-teodosio-da-fonseca/tree/main)
