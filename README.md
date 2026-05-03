@@ -47,8 +47,8 @@ Sou um estudante, que possui TEA (Transtorno do Espectro Autista) grau 2, com in
 | **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | **Modularização** | Um algoritmo estruturado para resolver um problema específico por meio de uma sequência lógica de decisões. | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo Lógica para Python** | Uma sequência de pseudocódigos reescritos em Python. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
-| **Engenharia de Contexto e Lógica Física** | Aplicação de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
-| **Desenhando Emojis com Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+| **Engenharia de Contexto e Lógica Física** | Um programa que aplica Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
+| **Desenhando Emojis com Dados** | Um programa que manipula listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
  
 ---
  
