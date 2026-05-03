@@ -73,7 +73,7 @@ Durante o desenvolvimento, foram consolidados diversos conceitos fundamentais:
 ## 🔧 Como Executar
 1. Faça o download do arquivo Experiência_4.ipynb.
 2. Abra o arquivo em um ambiente compatível (Jupyter Notebook, Google Colab ou VS Code com extensão Jupyter).
-3. Execute a célula de código principal.
+3. Execute a célula dos códigos.
 
 ---
 [Voltar ao início](https://github.com/lucastfonseca-ai/portifolio-lucas-teodosio-da-fonseca/tree/main)
