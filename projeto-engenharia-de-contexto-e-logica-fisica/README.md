@@ -28,8 +28,7 @@ O projeto explora conceitos como:
 ## 🚀 Tecnologias Utilizadas
 
 - **Linguagem:** Python
-- **Bibliotecas:** 
-  - `random` (simulação de variabilidade no ambiente)
+- **Bibliotecas:** `random` (simulação de variabilidade no ambiente)
 - **Ambiente de Desenvolvimento:** Notebook
 
 ---
