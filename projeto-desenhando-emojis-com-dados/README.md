@@ -65,5 +65,9 @@ O projeto reforça habilidades essenciais em programação estruturada e manipul
 
 ## 🔧 Como Executar
 
+1. Faça o download do arquivo Experiência_6.ipynb.
+2. Abra o arquivo em um ambiente compatível (Jupyter Notebook, Google Colab ou VS Code com extensão Jupyter).
+3. Execute a célula dos códigos.
+
 ---
 [Voltar ao início](https://github.com/lucastfonseca-ai/portifolio-lucas-teodosio-da-fonseca/tree/main)
