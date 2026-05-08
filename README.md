@@ -49,6 +49,7 @@ Sou um estudante, que possui TEA (Transtorno do Espectro Autista) grau 2, com in
 | **Traduzindo Lógica para Python** | Uma sequência de pseudocódigos reescritos em Python. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Um programa que aplica Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
 | **Desenhando Emojis com Dados** | Um programa que manipula listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Um script em Python que calcula o orçamento total da empresa. | [Ver Projeto](./projeto-sistema-de-auditoria-de-recursos-corporativos/) |
  
 ---
  
