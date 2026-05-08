@@ -28,15 +28,15 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   git clone [[https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)](https://github.com/lucastfonseca-ai/portfolio-lucas-teodosio-da-fonseca/tree/main)
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd [seu-repositorio](https://github.com/lucastfonseca-ai/portfolio-lucas-teodosio-da-fonseca/tree/main/projeto-sistema-de-auditoria-de-recursos-corporativos)
    ```
 3. Execute o script principal:
    ```bash
-   python main.py
+   Sistema_de_Auditoria_de_Recursos_Corporativos.ipynb
    ```
  
 ## 🧠 Lógica e Estrutura do Código
