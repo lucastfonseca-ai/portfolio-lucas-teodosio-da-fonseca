@@ -4,8 +4,8 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/lucas-teodósio-da-fonseca-2483bb3a3](https://www.linkedin.com/in/lucas-teod%C3%B3sio-da-fonseca-2483bb3a3/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.tfonseca@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-teodósio-da-fonseca-2483bb3a3)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.tfonseca@outlook.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./cv/curriculo-lucas-fonseca.pdf)
  
 ---
